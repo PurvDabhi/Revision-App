@@ -1,0 +1,13 @@
+@echo off
+echo Starting Beyond Chats Revision App...
+echo.
+echo Starting backend server...
+start cmd /k "cd server && npm run dev"
+timeout /t 3 /nobreak > nul
+echo Starting frontend...
+start cmd /k "cd frontend && npm run dev"
+echo.
+echo Both servers are starting...
+echo Frontend: http://localhost:3000
+echo Backend: http://localhost:5173
+pause

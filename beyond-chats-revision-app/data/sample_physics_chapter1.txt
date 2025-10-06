@@ -1,0 +1,20 @@
+CHAPTER 1: PHYSICAL WORLD
+
+Physics is the study of matter, energy, and their interactions. It seeks to understand how the universe works at the most fundamental level.
+
+Key Concepts:
+- Matter and Energy
+- Forces and Motion  
+- Waves and Particles
+- Space and Time
+
+Physics helps us understand natural phenomena and develop technology that improves our lives.
+
+The scope of physics includes:
+1. Mechanics - study of motion
+2. Thermodynamics - study of heat
+3. Electromagnetism - study of electric and magnetic fields
+4. Quantum mechanics - study of atomic and subatomic particles
+5. Relativity - study of space and time
+
+Physics uses mathematical models to describe and predict natural phenomena.
